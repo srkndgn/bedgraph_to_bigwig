@@ -1,4 +1,4 @@
-# bedgraph_to_bigwig
+bedgraph_to_bigwig
 
 Convert bedGraph to bigWig file
 
